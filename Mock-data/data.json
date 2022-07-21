@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "Siva",
+      "location": "Bengaluru",
+      "likes": 64,
+      "description": "Green is prime color of the world",
+      "PostImage": "green.png",
+      "date": "12/02/2022"
+    },
+    {
+      "name": "Neeraj",
+      "location": "Pune",
+      "likes": 30,
+      "description": "A reddish glow in a distance greeted his eyes",
+      "PostImage": "fire.png",
+      "date": "15/05/2022"
+    },
+    {
+      "name": "Rahul",
+      "location": "Hyderabad",
+      "likes": 30,
+      "description": "Let the waves carry you where light cannot",
+      "PostImage": "water.png",
+      "date": "10/06/2022"
+    }
+  ]
+}
